@@ -10,7 +10,7 @@
 
 ## About the code
 * The code in this repository was written in '[Python 3.10](https://www.python.org/downloads/)' and '[PyTorch 2.3.1](https://pytorch.org/get-started/locally/)'. (or it can be directly run on a [Colab](https://colab.google/) Notebook.)
-* Here we provide the code of this paper and have added annotations to some of them for understanding and learning convenience. (An example of each type of numerical example has been annotated, and the rest are similar. See below for details.)
+* Here, we provide the code of this paper and have added annotations to certain sections to enhance understanding and facilitate learning. Each type of numerical example has been annotated, and the remaining examples follow a similar format. Please refer below for more details.
   * The code for the Ginsburg-Landau model is provided in 'Ginzburg Landau', where 'WANCO1q' provides some code annotations.
   * The code for the activation test is provided in 'Activation test'.
   * The code for the Dirichlet partition problem is provided in 'Dirichlet partition', where 'PBC-2d-n=25' provides some code annotations.
