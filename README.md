@@ -13,5 +13,5 @@ examples for optimization problems with scalar constraints, nonlinear constraint
 * The code in this repository was written by 'Python 3.10' and 'PyTorch 2.3.1'. (or it can be directly run on Colab)
 * One should keep in mind that the parameters provided in this code may not efficiently work for different types of problems. So one may need to readjust parameters when using this code for solving different problems.
 * Here we provide the code from the article and have added comments to some of them. (An example of each type of numerical example has been commented, and the rest are similar. See below for details.)
-  * aaa
+  * The code for the Ginsburg--Landau model is in 
   * bbb
