@@ -18,3 +18,4 @@ examples for optimization problems with scalar constraints, nonlinear constraint
   * The code for the fluid-solid optimization problem is provided in 'Fluid-solid optimization', where 'case2_d=0_5' provides some code annotations.
   * The code for the Obstacle problem is provided in 'Obstacle problem', where 'obstacle1' provides some code annotations.
 * One should keep in mind that the parameters provided in this code may not efficiently work for different types of problems. So one may need to readjust parameters when using this code for solving different problems.
+* In this paper, networks used are ResNet combined with activation $\tanh^3(\cdot)$
