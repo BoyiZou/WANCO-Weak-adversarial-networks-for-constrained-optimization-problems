@@ -10,5 +10,8 @@ examples for optimization problems with scalar constraints, nonlinear constraint
 * This repository contains the code in the paper [WANCO: Weak adversarial networks for constrained optimization problems](https://arxiv.org/abs/2407.03647) by Gang Bao, Dong Wang, and Boyi Zou.
 
 ## About the code
-* The code in this repository was written by 'Python 3.10' and 'PyTorch 2.3.1'.
+* The code in this repository was written by 'Python 3.10' and 'PyTorch 2.3.1'. (or it can be directly run on Colab)
 * One should keep in mind that the parameters provided in this code may not efficiently work for different types of problems. So one may need to readjust parameters when using this code for solving different problems.
+* Here we provide the code from the article and have added comments to some of them. (An example of each type of numerical example has been commented, and the rest are similar. See below for details.)
+- aaa
+- bbb
