@@ -10,7 +10,7 @@ examples for optimization problems with scalar constraints, nonlinear constraint
 * This repository contains the code in the paper [WANCO: Weak adversarial networks for constrained optimization problems](https://arxiv.org/abs/2407.03647) by Gang Bao, Dong Wang, and Boyi Zou.
 
 ## About the code
-* The code in this repository was written by 'Python 3.10' and 'PyTorch 2.3.1'. (or it can be directly run on Colab)
+* The code in this repository was written by '[Python 3.10](https://www.python.org/downloads/)' and 'PyTorch 2.3.1'. (or it can be directly run on Colab)
 * Here we provide the code from the article and have added comments to some of them. (An example of each type of numerical example has been commented, and the rest are similar. See below for details.)
   * The code for the Ginsburg-Landau model is provided in 'Ginzburg Landau', where 'WANCO1q' provides some code annotations.
   * The code for the activation test is provided in 'Activation test'.
