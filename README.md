@@ -11,10 +11,10 @@ examples for optimization problems with scalar constraints, nonlinear constraint
 
 ## About the code
 * The code in this repository was written by 'Python 3.10' and 'PyTorch 2.3.1'. (or it can be directly run on Colab)
-* One should keep in mind that the parameters provided in this code may not efficiently work for different types of problems. So one may need to readjust parameters when using this code for solving different problems.
 * Here we provide the code from the article and have added comments to some of them. (An example of each type of numerical example has been commented, and the rest are similar. See below for details.)
   * The code for the Ginsburg-Landau model is provided in 'Ginzburg Landau', where 'WANCO1q' provides some code annotations.
   * The code for the activation test is provided in 'Activation test'.
   * The code for the Dirichlet partition problem is provided in 'Dirichlet partition', where 'PBC-2d-n=25' provides some code annotations.
   * The code for the fluid-solid optimization problem is provided in 'Fluid-solid optimization', where 'case2_d=0_5' provides some code annotations.
   * The code for the Obstacle problem is provided in 'Obstacle problem', where 'obstacle1' provides some code annotations.
+* One should keep in mind that the parameters provided in this code may not efficiently work for different types of problems. So one may need to readjust parameters when using this code for solving different problems.
