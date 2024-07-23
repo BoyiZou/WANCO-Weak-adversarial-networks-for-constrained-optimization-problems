@@ -8,3 +8,5 @@ examples for optimization problems with scalar constraints, nonlinear constraint
 
 ## Paper
 This repository contains the code for examples in the paper [WANCO: Weak adversarial networks for constrained optimization problems](https://arxiv.org/abs/2407.03647) by Gang Bao, Dong Wang, and Boyi Zou.
+
+## About the code
