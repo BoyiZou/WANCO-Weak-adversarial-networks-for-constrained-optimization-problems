@@ -9,7 +9,7 @@
 * This repository contains the code in the paper '[WANCO: Weak adversarial networks for constrained optimization problems](https://arxiv.org/abs/2407.03647)' by Gang Bao, Dong Wang, and Boyi Zou.
 
 ## About the code
-* The code in this repository was written by '[Python 3.10](https://www.python.org/downloads/)' and '[PyTorch 2.3.1](https://pytorch.org/get-started/locally/)'. (or it can be directly run on [Colab](https://colab.google/) Notebook.)
+* The code in this repository was written in '[Python 3.10](https://www.python.org/downloads/)' and '[PyTorch 2.3.1](https://pytorch.org/get-started/locally/)'. (or it can be directly run on [Colab](https://colab.google/) Notebook.)
 * Here we provide the code of this paper and have added annotations to some of them for understanding and learning convenience. (An example of each type of numerical example has been annotated, and the rest are similar. See below for details.)
   * The code for the Ginsburg-Landau model is provided in 'Ginzburg Landau', where 'WANCO1q' provides some code annotations.
   * The code for the activation test is provided in 'Activation test'.
