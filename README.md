@@ -7,7 +7,7 @@
 
 ## Paper
 * This repository contains the code in the paper '[WANCO: Weak adversarial networks for constrained optimization problems](https://arxiv.org/abs/2407.03647)' by Gang Bao, Dong Wang, and Boyi Zou.
-* This repository contains the code in the paper '[Weak adversarial networks for interface optimal design problems under physical constraints]' Inverse Problems and Imaging, 25, 133-157, by Gang Bao, Dong Wang, and Boyi Zou.
+* This repository contains the code in the paper '[Weak adversarial networks for interface optimal design problems under physical constraints]([https://arxiv.org/abs/2407.03647](https://www.aimsciences.org/article/doi/10.3934/ipi.2026019))' Inverse Problems and Imaging, 25, 133-157, by Gang Bao, Dong Wang, and Boyi Zou.
 
 ## About the code
 * The code in this repository was written in '[Python 3.10](https://www.python.org/downloads/)' and '[PyTorch 2.3.1](https://pytorch.org/get-started/locally/)'. (or it can be directly run on a [Colab](https://colab.google/) Notebook.)
